@@ -1,0 +1,11 @@
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\bin\Debug\netcoreapp2.0\ABC_MVC_CORE.deps.json
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\bin\Debug\netcoreapp2.0\ABC_MVC_CORE.runtimeconfig.json
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\bin\Debug\netcoreapp2.0\ABC_MVC_CORE.runtimeconfig.dev.json
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\bin\Debug\netcoreapp2.0\ABC_MVC_CORE.dll
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\bin\Debug\netcoreapp2.0\ABC_MVC_CORE.pdb
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\obj\Debug\netcoreapp2.0\ABC_MVC_CORE.csprojResolveAssemblyReference.cache
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\obj\Debug\netcoreapp2.0\ABC_MVC_CORE.csproj.CoreCompileInputs.cache
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\obj\Debug\netcoreapp2.0\ABC_MVC_CORE.AssemblyInfoInputs.cache
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\obj\Debug\netcoreapp2.0\ABC_MVC_CORE.AssemblyInfo.cs
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\obj\Debug\netcoreapp2.0\ABC_MVC_CORE.dll
+C:\Users\Ivan_\Documents\DesarrolloASP\ABC_MVC_CORE\ABC_MVC_CORE\obj\Debug\netcoreapp2.0\ABC_MVC_CORE.pdb

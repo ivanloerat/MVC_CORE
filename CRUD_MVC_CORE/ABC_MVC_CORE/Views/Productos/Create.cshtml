@@ -1,0 +1,40 @@
+﻿@model ABC_MVC_CORE.Models.ProductosModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>ProductosModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>            
+            <div class="form-group">
+                <label asp-for="ProdNombre" class="control-label"></label>
+                <input asp-for="ProdNombre" class="form-control" />
+                <span asp-validation-for="ProdNombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProdDescripcion" class="control-label"></label>
+                <input asp-for="ProdDescripcion" class="form-control" />
+                <span asp-validation-for="ProdDescripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProdPrecio" class="control-label"></label>
+                <input asp-for="ProdPrecio" class="form-control" />
+                <span asp-validation-for="ProdPrecio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Regresar</a>
+</div>
+
